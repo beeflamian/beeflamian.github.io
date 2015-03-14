@@ -1,0 +1,12 @@
+# Site settings
+title: Lamian's blog
+email: beeflamian@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Lamian!
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://beeflamian.com" # the base hostname & protocol for your site
+#twitter_username: jekyllrb
+github_username:  beeflamian
+
+# Build settings
+markdown: kramdown
